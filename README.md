@@ -1,2 +1,2 @@
-# DL-Lab-1
+# DL-Lab
 Lab excersice
